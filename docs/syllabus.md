@@ -16,10 +16,10 @@ Chủ đề bài giảng và nhiệm vụ hàng tuần:
 
 | **Tuần** | **Ngày học** |                                       **Bài giảng**                                      |                                                              **Nhiệm vụ trong tuần**                                                              |
 |----------|:------------:|:----------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
-|        1 |    5/11/2022 | Cấu trúc khóa Lập trình tối ưu hóa với Python  + Demo quy trình lập trình một thuật toán |     Ôn kiến thức giải tích & đại số tuyến tính Giải tích: https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x     |
-|        2 |   12/11/2022 | Ứng dụng thực tế của tối ưu hóa + Hướng dẫn cài đặt các phần mềm                         | Ôn kiến thức giải tích & đại số tuyến tính Đại số tuyến tính: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab |
+|        1 |    5/11/2022 | Cấu trúc khóa Lập trình tối ưu hóa với Python  + Demo quy trình lập trình một thuật toán |     Ôn kiến thức giải tích & đại số tuyến tính Giải tích: [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)     |
+|        2 |   12/11/2022 | Ứng dụng thực tế của tối ưu hóa + Hướng dẫn cài đặt các phần mềm                         | Ôn kiến thức giải tích & đại số tuyến tính Đại số tuyến tính: [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 |        3 |   19/11/2022 | Python và giải tích số - bài 1                                                           |                                                    Cài đặt các phần mềm, tạo tài khoản ở Github                                                   |
-|        4 |   26/11/2022 | Python và giải tích số - bài 2                                                           |                                Học Coursera: https://www.coursera.org/learn/computational-thinking-problem-solving                                |
+|        4 |   26/11/2022 | Python và giải tích số - bài 2                                                           |                                Học Coursera: [Computational Thinking for Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)                                |
 |        5 |    3/12/2022 | Python và giải tích số - bài 3                                                           |                                                                    Học Coursera                                                                   |
 |        6 |   10/12/2022 | Python và giải tích số - bài 4                                                           |                                                                    Học Coursera                                                                   |
 |        7 |   17/12/2022 | Vai trò của đại số tuyến tính trong tối ưu hóa                                           |                                                                    Học Coursera                                                                   |
@@ -51,7 +51,7 @@ Chủ đề bài giảng và nhiệm vụ hàng tuần:
 **Ghi chú**:
 - 24/12/2022 và 21/1/2023 là những ngày không có buổi học (nhằm vào 2 tuần nghỉ giữa khóa học)
 - Những buổi ghi _(họp nhóm)_ là không có buổi học, mỗi nhóm tự sắp xếp giờ họp của nhóm mình trong tuần đó
-- Vào các ngày có buổi học (các thứ bảy), thời gian học là từ 19:00 đến 21:00 theo giờ Việt Nam. Buổi học diễn ra online với dịch vụ của Microsoft Teams (link tham dự được gửi vào email cho người học).
+- Vào các ngày có buổi học (các **thứ bảy**), thời gian học là từ **19:00 đến 21:00 theo giờ Việt Nam**. Buổi học diễn ra online với dịch vụ của Microsoft Teams (link tham dự được gửi vào email cho người học).
 - Việc thảo luận liên quan đến khóa học được thực hiện qua forum riêng của khóa học sử dụng dịch vụ của Discord (link tham gia forum Discord được gửi vào email cho người học). Trong Discord có sẵn các phòng họp video riêng cho các nhóm sử dụng, cùng một số nơi để thảo luận bằng text.
 
 **Lưu ý**:
