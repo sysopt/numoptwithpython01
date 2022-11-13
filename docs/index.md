@@ -10,6 +10,8 @@ Dự kiến khai giảng: 2022-11-05
 
 ## Thông tin:
 
+2022-11-12: link Discord của khóa học là [https://discord.gg/ap59EGX32j](https://discord.gg/ap59EGX32j), các bạn không kịp đăng ký tham dự khóa học cũng có thể vào xem forum Discord và lấy tài liệu để học. Các bạn theo kịp chương trình học sẽ có thể đăng ký bổ sung làm thành viên khóa học khi kết thúc module 0 hoặc module 1 (là hai module cơ bản, chỉ cần tự học).
+
 2022-11-05: khóa học khai giảng với buổi học đầu tiên qua Teams và thành viên các nhóm làm quen nhau. Video buổi học này (và các buổi học sau) được đưa lên kênh [https://youtube.com/@toiuu](https://youtube.com/@toiuu) để mọi người xem lại.
 
 2022-10-28: chúng tôi đã gửi email cho những bạn được nhận tham gia khóa học đợt 1, các bạn có thể tìm email có tiêu đề là _Khoa hoc lap trinh toi uu hoa voi Python bat dau tu 5/11_, trong email này có link tham dự buổi học 5/11 và các thông tin cần thiết khác. Trong trường hợp bạn không nhận email thông báo chờ đến khóa 2 (tức là được tham gia khóa 1), mà không tìm thấy email có link tham gia buổi học ngày 5/11 thì hãy liên hệ với người tổ chức qua địa chỉ email: doanminhdang (a còng) gmail (chấm) com
